@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer and android devloper
 - 🌱 I’m currently learning ...various language
 - 💞️ I’m looking to collaborate on ... project
-- 📫 How to reach me mail at shaikhadil68639@gmail.com
+- 📫 mail at shaikhadil68639@gmail.com
 
 <!---
 ADILSRKIAN/ADILSRKIAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
